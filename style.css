@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	margin:0px;
+	background: lightcyan;
+	background-image: ;
+	
+}
+
+#topHeader
+{
+	width:100%;
+	height:auto;
+	background-color:rgba(59,59,59,1.00);
+	font-family:"Arial";
+	font-size:24px;
+	color:rgba(215,215,215,1.00);
+	text-align:center;
+	vertical-align:middle;
+	padding:10px 0px;
+}
+
+.tag
+{
+	font-family:"Lucida Sans";
+	color:indianred;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.SubHead
+{
+	font-family:"Lucida Sans";
+	color:rgba(207,103,0,1.00);
+	font-size:18px;
+	font-weight:bold;
+}
+
+#content
+{
+	width:600px;
+	height:auto;
+	background-color:transparent;
+	border:5px solid rgba(107,107,107,1.00);
+	border-radius:2px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div#table {
+ display:table;
+ padding:10px 10px;  
+}
+div.tr {
+  display:table-row;  
+}
+div.td {
+    display:table-cell;   
+    width:inherit;
+	 padding:3px 3px; 
+}
+
+div.tdd{
+	text-align:center;
+	caption-side: top;
+
+}
+
+div.tddd{
+	text-align:center;
+	padding:0px 7px;
+	caption-side: top;
+
+}
+
+label
+{
+	font-family:"Lucida Sans";
+	color:rgba(55,55,55,1.00);
+	font-size:16px;
+}
+
+input[type='text'], input[type='password']
+{
+	font-family:"Arial";
+	font-size:15px;
+	background-color:transparent;
+	color:rgba(41,41,41,1.00);
+	padding:0px 3px;
+	border:1px solid rgba(107,107,107,1.00);
+
+}
+
+input[type='submit'], input[type='button']
+{
+	font-family:"Arial";
+	font-size:16px;
+	background-color:transparent;
+	color:rgba(41,41,41,1.00);
+	padding:2px;
+	border:1px solid rgba(107,107,107,1.00);
+	cursor:pointer;
+
+}
+
+input[type='submit'], input[type='button']
+{
+	font-family:"Arial";
+	font-size:16px;
+	background-color:rgba(41,41,41,1.00);;
+	color:rgba(255,255,255,1.00);
+	padding:2px;
+	border:1px solid rgba(107,107,107,1.00);
+	cursor:pointer;
+
+}
+
+a.link:link, a.link:active, a.link:visited
+{
+	font-family:"Arial";
+	color:rgba(41,41,41,1.00);
+	font-size:16px;
+	text-decoration:none;
+}
+a.link:hover
+{
+	font-family:"Arial";
+	color:rgba(255,0,4,1.00);
+	font-size:16px;
+	cursor:pointer;
+	text-decoration:none;
+}
+	
+
+select
+{
+	font-family:"Arial";
+	font-size:12px;
+	background-color:rgba(181,181,181,1.00);
+	color:rgba(41,41,41,1.00);
+	padding:0px 3px;
+	border:1px solid rgba(107,107,107,1.00);
+
+}
+
+.text
+{
+	font-family:"Lucida Sans";
+	font-size:14px;
+	color:rgba(77,38,5,1.00);
+	
+}
+
+a.button:link, a.button:active, a.button:visited 
+{
+	font-family:"Lucida Sans";
+	text-decoration:none;
+	color:rgba(54,54,54,1.00);
+	padding:8px;
+	background-color:transparent;
+	border:2px solid rgba(63,63,63,1.00);
+}
+a.button:hover
+{
+	font-family:"Lucida Sans";
+	text-decoration:none;
+	color:rgba(255,255,255,1.00);
+	padding:8px;
+	background-color:rgba(63,63,63,1.00);;
+	border:2px solid rgba(255,255,255,1.00);
+}
+table, tr, td
+{
+	border:1px solid rgba(0,0,0,1.00);
+	border-collapse:collapse;
+	font-family:"Arial";
+	font-size:14px;
+}
