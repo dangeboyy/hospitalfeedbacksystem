@@ -2,6 +2,9 @@ Author: İbrahim Mert İnan 250201038
 CENG388 WEB PROJECT: HOSPITAL FEEDBACK SYSTEM
 This project is made with XAMPP,Sublime Text
 
+https://hospitalfeedbacksystem.herokuapp.com/
+
+if the link is not working please do the following steps.
 
 To open this project please do the following. 
 1-Open PHPMyAdmin http://localhost/phpmyadmin (If your PHPMyAdmin has a password please open the dbconn.php and enter your password inside the 3rd parameter in line 3 and save file)
