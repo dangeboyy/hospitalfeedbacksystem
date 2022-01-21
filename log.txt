@@ -1,2 +1,4 @@
 Login success for mert@gmail.com
-Admin login success
+Admin login successAdmin login success
+Login success for mert@gmail.com
+Login success for mert@gmail.com
