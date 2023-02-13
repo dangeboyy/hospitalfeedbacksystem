@@ -1,4 +1,4 @@
-Author: İbrahim Mert İnan 250201038
+Author: İbrahim Mert İnan
 CENG388 WEB PROJECT: HOSPITAL FEEDBACK SYSTEM
 This project is made with XAMPP,Sublime Text
 
